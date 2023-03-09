@@ -1,0 +1,72 @@
+2023-03-06 11:35:50,093  INFO [main] SauceDemo_15Oct:28 - Browser is opened
+2023-03-06 11:35:50,376  INFO [main] SauceDemo_15Oct:31 - Browser is maximized
+2023-03-06 11:35:53,349  INFO [main] SauceDemo_15Oct:34 - Url is opened
+2023-03-06 11:35:54,909  INFO [main] SauceDemo_15Oct:45 - Username is entered
+2023-03-06 11:35:55,143  INFO [main] SauceDemo_15Oct:48 - Password is entered
+2023-03-06 11:35:56,149  INFO [main] SauceDemo_15Oct:51 - Clicked on login button
+2023-03-06 11:35:56,150  INFO [main] SauceDemo_15Oct:54 - Went on homePage
+2023-03-06 11:35:56,337  INFO [main] SauceDemo_15Oct:27 - Login Test case is passed
+2023-03-06 11:35:57,397  INFO [main] SauceDemo_15Oct:65 - Browser is closed
+2023-03-06 11:35:57,398  INFO [main] SauceDemo_15Oct:66 - End of Program
+2023-03-06 11:36:01,713  INFO [main] SauceDemo_15Oct:28 - Browser is opened
+2023-03-06 11:36:02,310  INFO [main] SauceDemo_15Oct:31 - Browser is maximized
+2023-03-06 11:36:06,731  INFO [main] SauceDemo_15Oct:34 - Url is opened
+2023-03-06 11:36:07,074  INFO [main] SauceDemo_15Oct:45 - Username is entered
+2023-03-06 11:36:07,331  INFO [main] SauceDemo_15Oct:48 - Password is entered
+2023-03-06 11:36:07,841  INFO [main] SauceDemo_15Oct:51 - Clicked on login button
+2023-03-06 11:36:07,842  INFO [main] SauceDemo_15Oct:54 - Went on homePage
+2023-03-06 11:36:09,011  INFO [main] SauceDemo_15Oct:24 - Clicked on bag product
+2023-03-06 11:36:09,011  INFO [main] SauceDemo_15Oct:26 - Apply the validation
+2023-03-06 11:36:09,214  INFO [main] SauceDemo_15Oct:34 - Bag Add to cart test case is passed
+2023-03-06 11:36:10,467  INFO [main] SauceDemo_15Oct:65 - Browser is closed
+2023-03-06 11:36:10,474  INFO [main] SauceDemo_15Oct:66 - End of Program
+2023-03-06 11:36:13,598  INFO [main] SauceDemo_15Oct:28 - Browser is opened
+2023-03-06 11:36:14,713  INFO [main] SauceDemo_15Oct:31 - Browser is maximized
+2023-03-06 11:36:17,947  INFO [main] SauceDemo_15Oct:34 - Url is opened
+2023-03-06 11:36:18,309  INFO [main] SauceDemo_15Oct:45 - Username is entered
+2023-03-06 11:36:18,632  INFO [main] SauceDemo_15Oct:48 - Password is entered
+2023-03-06 11:36:19,394  INFO [main] SauceDemo_15Oct:51 - Clicked on login button
+2023-03-06 11:36:19,395  INFO [main] SauceDemo_15Oct:54 - Went on homePage
+2023-03-06 11:36:20,348  INFO [main] SauceDemo_15Oct:23 - Clicked on setting button
+2023-03-06 11:36:20,986  INFO [main] SauceDemo_15Oct:26 - Clicked on logOut Button
+2023-03-06 11:36:20,988  INFO [main] SauceDemo_15Oct:28 - Went on loginPage
+2023-03-06 11:36:20,988  INFO [main] SauceDemo_15Oct:30 - Apply verification
+2023-03-06 11:36:21,014  INFO [main] SauceDemo_15Oct:39 - LogOut Test case is passed
+2023-03-06 11:36:22,355  INFO [main] SauceDemo_15Oct:65 - Browser is closed
+2023-03-06 11:36:22,363  INFO [main] SauceDemo_15Oct:66 - End of Program
+2023-03-06 11:43:20,737  INFO [TestNG-test=Test-3] SauceDemo_15Oct:28 - Browser is opened
+2023-03-06 11:43:20,787  INFO [TestNG-test=Test-1] SauceDemo_15Oct:28 - Browser is opened
+2023-03-06 11:43:20,788  INFO [TestNG-test=Test-2] SauceDemo_15Oct:28 - Browser is opened
+2023-03-06 11:43:24,684  INFO [TestNG-test=Test-1] SauceDemo_15Oct:31 - Browser is maximized
+2023-03-06 11:43:24,724  INFO [TestNG-test=Test-3] SauceDemo_15Oct:31 - Browser is maximized
+2023-03-06 11:43:24,850  INFO [TestNG-test=Test-2] SauceDemo_15Oct:31 - Browser is maximized
+2023-03-06 11:43:34,174  INFO [TestNG-test=Test-3] SauceDemo_15Oct:34 - Url is opened
+2023-03-06 11:43:34,257  INFO [TestNG-test=Test-2] SauceDemo_15Oct:34 - Url is opened
+2023-03-06 11:43:34,491  INFO [TestNG-test=Test-1] SauceDemo_15Oct:34 - Url is opened
+2023-03-06 11:43:37,751  INFO [TestNG-test=Test-2] SauceDemo_15Oct:45 - Username is entered
+2023-03-06 11:43:37,766  INFO [TestNG-test=Test-1] SauceDemo_15Oct:45 - Username is entered
+2023-03-06 11:43:37,942  INFO [TestNG-test=Test-3] SauceDemo_15Oct:45 - Username is entered
+2023-03-06 11:43:38,082  INFO [TestNG-test=Test-1] SauceDemo_15Oct:48 - Password is entered
+2023-03-06 11:43:38,483  INFO [TestNG-test=Test-2] SauceDemo_15Oct:48 - Password is entered
+2023-03-06 11:43:39,148  INFO [TestNG-test=Test-3] SauceDemo_15Oct:48 - Password is entered
+2023-03-06 11:43:40,343  INFO [TestNG-test=Test-1] SauceDemo_15Oct:51 - Clicked on login button
+2023-03-06 11:43:40,344  INFO [TestNG-test=Test-1] SauceDemo_15Oct:54 - Went on homePage
+2023-03-06 11:43:41,052  INFO [TestNG-test=Test-3] SauceDemo_15Oct:51 - Clicked on login button
+2023-03-06 11:43:41,053  INFO [TestNG-test=Test-3] SauceDemo_15Oct:54 - Went on homePage
+2023-03-06 11:43:41,405  INFO [TestNG-test=Test-2] SauceDemo_15Oct:51 - Clicked on login button
+2023-03-06 11:43:41,405  INFO [TestNG-test=Test-2] SauceDemo_15Oct:54 - Went on homePage
+2023-03-06 11:43:41,708  INFO [TestNG-test=Test-1] SauceDemo_15Oct:27 - Login Test case is passed
+2023-03-06 11:43:45,209  INFO [TestNG-test=Test-3] SauceDemo_15Oct:23 - Clicked on setting button
+2023-03-06 11:43:45,406  INFO [TestNG-test=Test-2] SauceDemo_15Oct:24 - Clicked on bag product
+2023-03-06 11:43:45,407  INFO [TestNG-test=Test-2] SauceDemo_15Oct:26 - Apply the validation
+2023-03-06 11:43:45,884  INFO [TestNG-test=Test-3] SauceDemo_15Oct:26 - Clicked on logOut Button
+2023-03-06 11:43:45,885  INFO [TestNG-test=Test-3] SauceDemo_15Oct:28 - Went on loginPage
+2023-03-06 11:43:45,885  INFO [TestNG-test=Test-3] SauceDemo_15Oct:30 - Apply verification
+2023-03-06 11:43:45,914  INFO [TestNG-test=Test-3] SauceDemo_15Oct:39 - LogOut Test case is passed
+2023-03-06 11:43:47,069  INFO [TestNG-test=Test-2] SauceDemo_15Oct:34 - Bag Add to cart test case is passed
+2023-03-06 11:43:55,707  INFO [TestNG-test=Test-2] SauceDemo_15Oct:65 - Browser is closed
+2023-03-06 11:43:55,707  INFO [TestNG-test=Test-2] SauceDemo_15Oct:66 - End of Program
+2023-03-06 11:43:57,594  INFO [TestNG-test=Test-1] SauceDemo_15Oct:65 - Browser is closed
+2023-03-06 11:43:57,594  INFO [TestNG-test=Test-1] SauceDemo_15Oct:66 - End of Program
+2023-03-06 11:43:58,926  INFO [TestNG-test=Test-3] SauceDemo_15Oct:65 - Browser is closed
+2023-03-06 11:43:58,938  INFO [TestNG-test=Test-3] SauceDemo_15Oct:66 - End of Program

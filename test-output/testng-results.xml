@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-06T11:43:04 IST" name="ParallelTesringSuite" finished-at="2023-03-06T11:43:58 IST" duration-ms="54317">
+    <groups>
+    </groups>
+    <test started-at="2023-03-06T11:43:04 IST" name="Test" finished-at="2023-03-06T11:43:58 IST" duration-ms="54317">
+      <class name="com.saucedemo.TESTpack.verifyAllProductProductAddToCartFunctionality">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.saucedemo.TESTpack.verifyAllProductProductAddToCartFunctionality@384ad17b]" started-at="2023-03-06T11:43:04 IST" name="setUp" finished-at="2023-03-06T11:43:41 IST" duration-ms="36647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyallproduct()[pri:0, instance:com.saucedemo.TESTpack.verifyAllProductProductAddToCartFunctionality@384ad17b]" started-at="2023-03-06T11:43:41 IST" name="verifyallproduct" finished-at="2023-03-06T11:43:47 IST" duration-ms="5664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyallproduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.TESTpack.verifyAllProductProductAddToCartFunctionality@384ad17b]" started-at="2023-03-06T11:43:47 IST" name="tearDown" finished-at="2023-03-06T11:43:55 IST" duration-ms="8633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.TESTpack.verifyAllProductProductAddToCartFunctionality -->
+      <class name="com.saucedemo.TESTpack.TC2_VerifyLoginOutFunctionality">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.saucedemo.TESTpack.TC2_VerifyLoginOutFunctionality@61862a7f]" started-at="2023-03-06T11:43:04 IST" name="setUp" finished-at="2023-03-06T11:43:41 IST" duration-ms="36289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyLoginOutFunctionality()[pri:0, instance:com.saucedemo.TESTpack.TC2_VerifyLoginOutFunctionality@61862a7f]" started-at="2023-03-06T11:43:41 IST" name="VerifyLoginOutFunctionality" finished-at="2023-03-06T11:43:45 IST" duration-ms="4860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginOutFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.TESTpack.TC2_VerifyLoginOutFunctionality@61862a7f]" started-at="2023-03-06T11:43:45 IST" name="tearDown" finished-at="2023-03-06T11:43:58 IST" duration-ms="13016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.TESTpack.TC2_VerifyLoginOutFunctionality -->
+      <class name="com.saucedemo.TESTpack.TC01_VerifyLoginActivity">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.saucedemo.TESTpack.TC01_VerifyLoginActivity@1cbbffcd]" started-at="2023-03-06T11:43:04 IST" name="setUp" finished-at="2023-03-06T11:43:40 IST" duration-ms="35586" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifylogin()[pri:0, instance:com.saucedemo.TESTpack.TC01_VerifyLoginActivity@1cbbffcd]" started-at="2023-03-06T11:43:40 IST" name="verifylogin" finished-at="2023-03-06T11:43:41 IST" duration-ms="1360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.TESTpack.TC01_VerifyLoginActivity@1cbbffcd]" started-at="2023-03-06T11:43:42 IST" name="tearDown" finished-at="2023-03-06T11:43:57 IST" duration-ms="15469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.TESTpack.TC01_VerifyLoginActivity -->
+    </test> <!-- Test -->
+  </suite> <!-- ParallelTesringSuite -->
+</testng-results>
